@@ -1,0 +1,2 @@
+# mathMagic
+Learn Java
